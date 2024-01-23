@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/solutions/new](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/solutions/new)
+- Live Site URL: [https://justine1285.github.io/Responsive-landing-layout-using-css-flexbox/](https://justine1285.github.io/Responsive-landing-layout-using-css-flexbox/)
 
 ## My process
 
